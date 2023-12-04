@@ -1,0 +1,57 @@
+.reveal{
+    display: none;
+}
+.notReveal{
+    color: white;
+}
+#root{
+display: flex;
+justify-content: center;
+align-items: center;
+ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ color: white;
+ 
+}
+.container{
+    text-align: center;
+    background-color: teal;
+    width: 600px;
+    height: 700px;
+}
+button{
+    margin: 10px;
+    border-radius: 12px;
+    padding: 8px 20px;
+    font-size: 16px;
+}
+h1{
+    font-size: 40px;
+}
+h3,div{
+    font-size: 20px;  
+}
+span{
+    color: rgb(185, 185, 114);
+    margin-right: 20px;
+    font-size: 30px;
+}
+.d{
+    background-color: rosybrown;
+}
+
+.i{
+    background-color: rgb(133, 207, 207);
+}
+.r{
+    background-color: red;
+}
+.q{
+  background-color: rgb(185, 185, 114);;  
+}
+.revQ{
+    background-color: rgb(78, 78, 238);
+}
+div{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
